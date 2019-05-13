@@ -1,8 +1,7 @@
 ﻿using CopyData.Context.PostgreSQL;
 using CopyData.Context.SqlServer;
-using System;
-using System.Linq;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace CopyData
 {

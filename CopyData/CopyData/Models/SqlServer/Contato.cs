@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace CopyData.Models.SqlServer
+﻿namespace CopyData.Models.SqlServer
 {
     public class Contato
     {

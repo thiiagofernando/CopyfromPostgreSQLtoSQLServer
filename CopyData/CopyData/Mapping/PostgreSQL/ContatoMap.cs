@@ -1,9 +1,6 @@
 ﻿using CopyData.Models.PostgreSQL;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace CopyData.Mapping.PostgreSQL
 {

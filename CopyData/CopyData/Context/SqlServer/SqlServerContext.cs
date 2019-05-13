@@ -1,9 +1,6 @@
 ﻿using CopyData.Mapping.SqlServer;
 using CopyData.Models.SqlServer;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace CopyData.Context.SqlServer
 {

@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace CopyData.Models.PostgreSQL
+﻿namespace CopyData.Models.PostgreSQL
 {
     public class Contato
     {
